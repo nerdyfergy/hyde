@@ -10,7 +10,6 @@ relative_permalinks: true
 title:            The Three Laws Blog
 tagline:          'A legal blog about Artificial Intelligence regulations, policies, and laws.'
 description:      'Educating lawmakers on AI and discussing regulation.'
-'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
