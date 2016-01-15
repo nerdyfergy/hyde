@@ -9,9 +9,7 @@ relative_permalinks: true
 # Setup
 title:            The Three Laws Blog
 tagline:          'A legal blog about Artificial Intelligence regulations, policies, and laws.'
-description:      'The purpose of this blog is to
-	1. Educate attorneys and law makers about the emerging field of Artificial Intelligence, and 
-	2. Create a discussion within the legal field about what can/should be done in regards to regulating Artificial Intelligence research and development
+description:      'Educating lawmakers on AI and discussing regulation.'
 '
 url:              http://hyde.getpoole.com
 baseurl:          /
