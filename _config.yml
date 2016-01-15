@@ -7,15 +7,18 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            The Three Laws Blog
+tagline:          'A legal blog about Artificial Intelligence regulations, policies, and laws.'
+description:      'The purpose of this blog is to
+	1. Educate attorneys and law makers about the emerging field of Artificial Intelligence, and 
+	2. Create a discussion within the legal field about what can/should be done in regards to regulating Artificial Intelligence research and development
+'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Alex Ferguson'
+  url:            https://bamboolawgroup.com
 
 paginate:         5
 
