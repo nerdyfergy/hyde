@@ -4,10 +4,12 @@ title: About
 ---
 
 <p class="message">
+
  The purpose of this blog is to
 	
   1. Educate attorneys and law makers about the emerging field of Artificial Intelligence, and 
   2. Create a discussion within the legal field about what can and should be done in regards to regulating Artificial Intelligence research and development
+
 </p>
 	
 ##My Personal Interest:
