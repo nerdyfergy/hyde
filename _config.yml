@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            The Three Laws Blog
-tagline:          'A legal blog about Artificial Intelligence regulations, policies, and laws.'
-description:      'Educating lawmakers about AI and discussing regulation.'
+tagline:          'Educating lawmakers about AI and discussing regulation.'
+description:      'News and Discussion on Artificial Intelligence Law.'
 url:              http://nerdyfergy.github.io/hyde/
 baseurl:          /
 
