@@ -4,7 +4,7 @@ title: About
 ---
 
 <div class="message">
-  The purpose of this blog is to
+  The purpose of this blog is to:
     <ol>
       <li> Educate attorneys and law makers about the emerging field of Artificial Intelligence, and </li>
       <li> Create a discussion within the legal field about what can and should be done in regards to regulating Artificial Intelligence research and development</li>
@@ -24,4 +24,4 @@ I am an attorney and I have spent a lot of time the last few months looking into
 As I stated, there is not much information available in the legal field from the perspective of how the law should be involved with AI. There have been numerous calls from tech industry leaders stating that AI should be a regulated field (elon, altman, woz),  but there has been little discussion from within the legal community. There is a future law review article from the Harvard Law Journal on the subject and some commentary on that article. While these pieces show that there are some out there thinking about these topics, I wanted to create a forum that explains what is happening in the AI field in plain english for attorneys and government officials so that they might understand why tech industry leaders and others have called for government regulation, and  to provide legal analysis, discussion, and suggestions aimed at other attorneys and the legislature to get the discussion moving.
 
 
-[^1}: <a>http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</a>
+[^1]: <a>http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</a>
