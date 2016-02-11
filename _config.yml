@@ -5,6 +5,10 @@ highlighter:      rouge
 # Permalinks
 permalink:        pretty
 
+# kramdown config
+kramdown:
+  parse_block_html: true
+
 
 # Setup
 title:            The Three Laws Blog
